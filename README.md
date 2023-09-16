@@ -4,8 +4,8 @@ These are all exercises solved during the subject EAI  at faculty of mathematics
 
 **Table of contents:**
 
-_1.Regular languages and automata_
+1._Regular languages and automata_
 
-_2.Contex free grammars and stack machines_
+2._Contex free grammars and stack machines_
 
-_3.Turing machines_
+3._Turing machines_
