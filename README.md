@@ -1,6 +1,6 @@
 # EAI-Languages-Automata-and-Computability
 
-These are all exercises solved during the subject EAI  at faculty of mathematics and infromatics at Sofia University st.Kliment Ohridski.
+These are all exercises solved during the subject EAI  at faculty of mathematics and informatics at Sofia University st.Kliment Ohridski.
 
 **Table of contents:**
 
